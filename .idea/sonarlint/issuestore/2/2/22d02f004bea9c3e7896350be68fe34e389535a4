@@ -1,0 +1,42 @@
+
+Hsquid:S1602I",Remove useless curly braces around statement(ê°ßùÿÿÿÿ
+osquid:S1602!"SRemove useless curly braces around statement and then remove useless return keyword(¯Ş–·ûÿÿÿÿ
+ssquid:S4276ƒ"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(úâûÓùÿÿÿÿ
+hsquid:S4276/"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(«ŒÁÆ
+osquid:S4276˜"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(Ñßòê
+Csquid:S1612?",Replace this lambda with a method reference.(øğÊÇ
+Ssquid:S1854 "=Remove this useless assignment to local variable "supplier1".(ÏçL
+osquid:S4276›"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(öã…ë
+Esquid:S1481$".Remove this unused "maxValues" local variable.(µ¦‘Ö
+Hsquid:S1612",Replace this lambda with a method reference.(ô²áÀøÿÿÿÿ
+Hsquid:S1612k",Replace this lambda with a method reference.(¦—ªÒıÿÿÿÿ
+Csquid:S1612n",Replace this lambda with a method reference.(åğò¤
+Fsquid:S1611?"/Remove the parentheses around the "t" parameter(øğÊÇ
+Gsquid:S1611†"/Remove the parentheses around the "i" parameter(“óÃ
+[squid:S1854›"CRemove this useless assignment to local variable "binaryOperator1".(öã…ë
+P
+squid:S106©"9Replace this use of System.out or System.err by a logger.(‘˜¿‰
+P
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(ìõâá
+O
+squid:S106?"9Replace this use of System.out or System.err by a logger.(øğÊÇ
+osquid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ô²áÀøÿÿÿÿ
+Csquid:S1602C",Remove useless curly braces around statement(ÿ§ê³
+Tsquid:S1854$"=Remove this useless assignment to local variable "maxValues".(µ¦‘Ö
+Jsquid:S1481!".Remove this unused "supplier2" local variable.(¯Ş–·ûÿÿÿÿ
+Lsquid:S1481›"4Remove this unused "binaryOperator1" local variable.(öã…ë
+Hsquid:S1602K",Remove useless curly braces around statement(£Ááıÿÿÿÿ
+Lsquid:S1611ƒ"/Remove the parentheses around the "i" parameter(úâûÓùÿÿÿÿ
+Isquid:S1481"-Remove this unused "supplier" local variable.(ô²áÀøÿÿÿÿ
+Xsquid:S1854"<Remove this useless assignment to local variable "supplier".(ô²áÀøÿÿÿÿ
+T
+squid:S106L"9Replace this use of System.out or System.err by a logger.(¦üÁÒÿÿÿÿÿ
+T
+squid:S106J"9Replace this use of System.out or System.err by a logger.(©ûÚòşÿÿÿÿ
+Ysquid:S1854!"=Remove this useless assignment to local variable "supplier2".(¯Ş–·ûÿÿÿÿ
+Dsquid:S1612­",Replace this lambda with a method reference.(ÌÖçá
+U
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ÍÈÛ¸üÿÿÿÿ
+nsquid:S4276†"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(“óÃ
+ssquid:S4276¨"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(¢¨¶úÿÿÿÿ
+Dsquid:S1481 ".Remove this unused "supplier1" local variable.(ÏçL

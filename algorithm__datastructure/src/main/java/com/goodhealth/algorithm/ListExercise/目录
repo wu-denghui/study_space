@@ -1,0 +1,5 @@
+LinkedListCycle                    给定一个链表，判断它是否有环
+MergeKSortedLists                合并k个排序链表
+Remove_Nth_Nod...               给定一个链表，删除链表中倒数第n个节点，返回链表的头节点
+LC_105                                 复制带随机指针的链表
+AllSort                                  给定一个序列，求得所有的排列

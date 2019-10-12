@@ -1,0 +1,6 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¾ß
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(»Ì§–úÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ã²‰«
+usquid:S1845!"^Rename method "run" to prevent any misunderstanding/clash with field "run" defined on line 12.(“–ış
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(üÜŒÆùÿÿÿÿ

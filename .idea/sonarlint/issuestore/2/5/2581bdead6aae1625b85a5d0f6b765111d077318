@@ -1,0 +1,33 @@
+
+Ssquid:S1854J"7Remove this useless assignment to local variable "res".(üÜãõüÿÿÿÿ
+Ksquid:S1854g"5Remove this useless assignment to local variable "a".(ÍİÂ|
+O
+squid:S106B"9Replace this use of System.out or System.err by a logger.(Éğˆ‚
+psquid:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(×¶Õ³
+O
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ïĞ¿
+Rsquid:S1854T"<Remove this useless assignment to local variable "nameList".(Ì€ËJ
+Osquid:S3655Š"7Call "Optional#isPresent()" before accessing the value.(Åãïº
+P
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(Åãïº
+>squid:S2201<"'The return value of "get" must be used.(Œí¶Î
+>squid:S1481h"'Remove this unused "aa" local variable.(úâèé
+Dsquid:S1481D"(Remove this unused "aa1" local variable.(Ô«ªüÿÿÿÿ
+Dsquid:S1481J"(Remove this unused "res" local variable.(üÜãõüÿÿÿÿ
+Msquid:S1854h"6Remove this useless assignment to local variable "aa".(úâèé
+Csquid:S1481T"-Remove this unused "nameList" local variable.(Ì€ËJ
+8squid:S3864M"!Remove this use of "Stream.peek".(ïĞ¿
+Nsquid:S16116"2Remove the parentheses around the "list" parameter(òèî™ÿÿÿÿÿ
+@squid:S1481K")Remove this unused "res2" local variable.(º­€”
+Msquid:S1854C"6Remove this useless assignment to local variable "bb".(î± Û
+<squid:S1481g"&Remove this unused "a" local variable.(ÍİÂ|
+Hsquid:S16126",Replace this lambda with a method reference.(òèî™ÿÿÿÿÿ
+Osquid:S1854K"8Remove this useless assignment to local variable "res2".(º­€”
+Isquid:S3655<"2Call "max.isPresent()" before accessing the value.(Œí¶Î
+Ssquid:S1854D"7Remove this useless assignment to local variable "aa1".(Ô«ªüÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Èš±‡øÿÿÿÿ
+Dsquid:S1481E"(Remove this unused "bb1" local variable.(¿”Ğòùÿÿÿÿ
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(¬èø´
+>squid:S1481C"'Remove this unused "bb" local variable.(î± Û
+Ssquid:S1854E"7Remove this useless assignment to local variable "bb1".(¿”Ğòùÿÿÿÿ

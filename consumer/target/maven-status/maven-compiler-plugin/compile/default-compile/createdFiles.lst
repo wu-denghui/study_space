@@ -1,0 +1,13 @@
+consumer\rabbit\consumer\Topic\AllLogReceiver.class
+consumer\eureka\service\impl\UserServiceImpl.class
+consumer\rabbit\consumer\Topic\ErrorReceiver.class
+consumer\rabbit\consumer\Direct\ErrorReceiver.class
+consumer\rabbit\consumer\Fanout\MessageReceiver.class
+consumer\rabbit\consumer\Fanout\PushReceiver.class
+consumer\eureka\service\impl\UserServiceImpl$1.class
+consumer\eureka\controller\UserController.class
+consumer\eureka\pojo\User.class
+consumer\rabbit\consumer\Topic\InfoReceiver.class
+consumer\eureka\Application.class
+consumer\eureka\service\UserService.class
+consumer\rabbit\consumer\Direct\InfoReceiver.class

@@ -1,0 +1,20 @@
+ArraryExercise                 关于数组的基本知识
+Calculator                       使用bigDecimal进行精确运算
+CrossString                      给出三个字符串: str1、str2、str3，判断str3是否由str1和str2交叉构成
+FanxingArrary                   泛型数组
+FindMaxDivision               未排序数组中排序后相邻元素的最大差值(非排序法解决
+K_sum                             给定 n 个不同的正整数，整数 k（k <= n）以及一个目标数字 target。 
+                                        在这 n 个数里面找出 k个数，使得这 k 个数的和等于目标数字，求问有多少种方案？
+LargestRect......                给出的n个非负整数表示每个直方图的高度，每个直方图的宽均为1，在直方图中找到最大的矩形面积。
+LCS                                  最长公共子序列
+LIS                                   最长上升子序列
+MaxTree                          给定一个数组   组成值从大到小排列的二叉树
+MinStack                         实现一个带有取最小值min方法的栈，min方法将返回当前栈中的最小值
+Model132                        检查输入的这 n 个整数的序列中是否存在132模式
+ParamPast                      形参与实参的传值测试
+Path                                机器人试图达到网格的右下角
+Print                               将一个二维矩阵顺时针打印
+SearchA2DMatrix          搜索m×n矩阵中的值，返回这个值出现的次数
+StockHeapExercise         两个数组pPush和pPop分别存储了压栈序列和出栈序列，如何判断出栈序列是否正确
+Str                                   在目标串中寻找字串的开始位置（非KMP)
+StringExercise                 关于字符串的小问题

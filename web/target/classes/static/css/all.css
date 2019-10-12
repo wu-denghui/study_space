@@ -1,0 +1,104 @@
+#frameContentLogo
+{
+    position: absolute;
+    top: 20px;
+    left: 125px;
+    height: 60px;
+    width:  250px;
+    overflow: hidden;
+    vertical-align: top;
+}
+#frameContentSearch
+{
+    position: absolute;
+    top: 35px;
+    left: 400px;
+    height: 40px;
+    width: 500px;
+    overflow: hidden;
+    vertical-align: top;
+}
+#frameContentLogReg
+{
+    position: absolute;
+    top: 45px;
+    left: 1100px;
+    height: 40px;
+    width: 600px;
+    overflow: hidden;
+    vertical-align: top;
+}
+#frameClassified
+{
+    position: absolute;
+    left: 100px;
+    top: 200px;
+    height: 80%;
+    width: 300px;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+}
+#frameSlide
+{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+    height: 70%;
+    width: 800px;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+}
+#frameRecommend
+{
+    position: absolute;
+    left: 1200px;
+    top: 200px;
+    height: 80%;
+    width: 300px;
+    right: 0;
+    overflow: hidden;
+}
+.demo{
+    overflow: hidden;
+    height: 80vh;
+    width: 100%;
+}
+#frameForm
+{
+    position: absolute;
+    left: 250px;
+    top: 200px;
+    height: 600px;
+    width: 1000px;
+    overflow: hidden;
+}
+#frameFormRegister
+{
+    position: absolute;
+    left: 250px;
+    top: 200px;
+    height: 600px;
+    width: 1000px;
+    overflow: hidden;
+}
+
+#frameLoginForm
+{
+    position: absolute;
+    left: 250px;
+    top: 200px;
+    height: 60%;
+    width: 500px;
+    overflow: hidden;
+}
+
+#showDrug
+{
+    position: absolute;
+    height: 70%;
+    width: 80%;
+    overflow: hidden;
+}
+

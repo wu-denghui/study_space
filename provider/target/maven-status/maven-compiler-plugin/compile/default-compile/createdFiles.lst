@@ -1,0 +1,12 @@
+com\goodhealth\provider\rabbit\provider\Topic\UserSender.class
+com\goodhealth\provider\eurake\service\UserService.class
+com\goodhealth\provider\eurake\Application.class
+com\goodhealth\provider\eurake\service\Impl\UserServiceImpl.class
+com\goodhealth\provider\rabbit\provider\Topic\ProductSender.class
+com\goodhealth\provider\rabbit\provider\Direct\MessageDigestFactory.class
+com\goodhealth\provider\eurake\controller\UserController.class
+com\goodhealth\provider\rabbit\provider\Direct\Sender.class
+com\goodhealth\provider\eurake\controller\ShutDown.class
+com\goodhealth\provider\eurake\pojo\User.class
+com\goodhealth\provider\rabbit\provider\Topic\OrderSender.class
+com\goodhealth\provider\rabbit\provider\Fanout\Sender.class

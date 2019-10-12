@@ -1,0 +1,58 @@
+
+Rsquid:S1854^";Remove this useless assignment to local variable "student".(Ä¬ï¶
+Nsquid:S1135$"2Complete the task associated to this TODO comment.(Í¦í„úÿÿÿÿ
+Nsquid:S1135S"2Complete the task associated to this TODO comment.(Ôï½éşÿÿÿÿ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8 áäÛ-
+@squid:S1148€"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148`"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+gsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(…úáÌşÿÿÿÿ
+N
+squid:S106C"9Replace this use of System.out or System.err by a logger.(ªÌ¤d
+]squid:S3252D"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(˜µÓ
+@squid:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Osquid:S1135…"2Complete the task associated to this TODO comment.(ĞÙ¦õşÿÿÿÿ
+Tsquid:S1854‘"<Remove this useless assignment to local variable "students".(…ªö›
+?squid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+N
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ªÌ¤d
+Zsquid:S3252p"DUse static access with "com.alibaba.fastjson.JSON" for "parseArray".(ƒŒÙ
+gsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(áªæåÿÿÿÿÿ
+]squid:S3252*"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(ôıÚ¾
+]squid:S3252B"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(ÁÂÎÙ
+asquid:S3252Z"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(îà‡Úúÿÿÿÿ
+`squid:S3252l"DUse static access with "com.alibaba.fastjson.JSON" for "parseArray".(¬Ÿş şÿÿÿÿ
+asquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(Ö…€j
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸Öööıÿÿÿÿ
+?squid:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+O
+squid:S106m"9Replace this use of System.out or System.err by a logger.(èñç¢
+N
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ªÌ¤d
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷»Ô
+Hsquid:S1481Y",Remove this unused "student" local variable.(‘îÎÉùÿÿÿÿ
+asquid:S3252Y"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(‘îÎÉùÿÿÿÿ
+P
+squid:S106“"9Replace this use of System.out or System.err by a logger.(ØŸ¦
+Wsquid:S1854Y";Remove this useless assignment to local variable "student".(‘îÎÉùÿÿÿÿ
+gsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(ÀŒÔøùÿÿÿÿ
+O
+squid:S106z"9Replace this use of System.out or System.err by a logger.(ØŸ¦
+O
+squid:S106q"9Replace this use of System.out or System.err by a logger.(ØŸ¦
+O
+squid:S106|"9Replace this use of System.out or System.err by a logger.(ØŸ¦
+O
+squid:S106~"9Replace this use of System.out or System.err by a logger.(ØŸ¦
+Usquid:S1854*">Remove this useless assignment to local variable "jsonString".(ôıÚ¾
+P
+squid:S106—"9Replace this use of System.out or System.err by a logger.(ØŸ¦
+Nsquid:S1135f"2Complete the task associated to this TODO comment.(ĞÙ¦õşÿÿÿÿ
+N
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ªÌ¤d
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(ÃŸ8 áäÛ-
+N
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ªÌ¤d
+hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(²ı’¡úÿÿÿÿ
+N
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ªÌ¤d
+Nsquid:S1135:"2Complete the task associated to this TODO comment.(ë²¥•üÿÿÿÿ

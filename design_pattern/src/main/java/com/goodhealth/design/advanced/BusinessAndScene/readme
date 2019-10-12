@@ -1,0 +1,10 @@
+Command:代表某一动作，顶层是接口Command
+
+CommandGroup:command的集合，多个动作构成一个操作，代表着一个业务场景。
+    顶层为抽象类AbstractCommandGroup，实现了对每个Command的执行
+
+Action:用于执行一个CommandGroup，代表完成某一业务场景。
+    Action会有多个表示多种业务场景，但是执行入口在抽象类中。
+
+ActionChain:用于链路分发，实际中可能一个业务会有多种情况，
+    ActionChain就是根据情况选择执行那个Action去完成业务
