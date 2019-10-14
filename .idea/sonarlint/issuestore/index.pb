@@ -39,8 +39,6 @@ Walgorithm__datastructure/src/main/java/com/goodhealth/algorithm/lambda/StreamUs
 ]algorithm__datastructure/src/main/java/com/goodhealth/algorithm/Jackson_FastJson/Student.java,3\a\3a21b49086e0e888edbd33cb24659e2b1d794cbe
 ç
 ]algorithm__datastructure/src/main/java/com/goodhealth/algorithm/lambda/FunctionInterface.java,2\2\22d02f004bea9c3e7896350be68fe34e389535a4
-{
-Kalgorithm__datastructure/src/main/java/com/goodhealth/algorithm/Test/B.java,2\c\2c242cb6305dd1665d18960f6865411e8c40ce24
 Ü
 Vframework/src/main/java/com/goodhealth/framework/config/AbstractInterceptorConfig.java,6\3\63a5da1247a2648aad0309ba551fc5435a815440
 
